@@ -1,6 +1,7 @@
 {
   "values": [
     "init:rule",
+    "init:core",
     "skill:main/init"
   ]
 }

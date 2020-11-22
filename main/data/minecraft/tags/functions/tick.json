@@ -1,5 +1,6 @@
 {
   "values": [
+    "core:drown/tick",
     "skill:jet/tick"
   ]
 }
